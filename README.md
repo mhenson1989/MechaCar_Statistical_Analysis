@@ -4,11 +4,11 @@
 
 ![Deliverable 1](https://github.com/mhenson1989/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable1_Output.PNG)
 
--*Question #1: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?* The coefficients that provided a non-random amount of variance are ground_clearance and vehicle_length. 
+- ***Question #1: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?*** The coefficients that provided a non-random amount of variance are ground_clearance and vehicle_length. 
 
--*Question #2: Is the slope of the linear model considered to be zero?* The p-value of my linear regression analysis is 5.35e-11. This is significantly smaller than the assumed significance level of 0.05%. Therefore, it is sufficiently proven that there is evidence to reject a null hypothesis, and that the slope of my linear model is not zero. 
+- ***Question #2: Is the slope of the linear model considered to be zero?*** The p-value of my linear regression analysis is 5.35e-11. This is significantly smaller than the assumed significance level of 0.05%. Therefore, it is sufficiently proven that there is evidence to reject a null hypothesis, and that the slope of my linear model is not zero. 
 
--*Question #3: Does this linear model predict mpg of MechaCar prototypes effectively?* When looking at the R-squared value of 0.7149, it indicates an approximate accuracty of 71%, which almost equates to a 1 and 4 chance of being inaccurate. Though this is not bad odds, I would recommend bolstering this model to increase it's r-squared value. 
+- ***Question #3: Does this linear model predict mpg of MechaCar prototypes effectively?*** When looking at the R-squared value of 0.7149, it indicates an approximate accuracty of 71%, which almost equates to a 1 and 4 chance of being inaccurate. Though this is not bad odds, I would recommend bolstering this model to increase it's r-squared value. 
 
 ## Summary Statistics on Suspension Coils
 
